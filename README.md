@@ -1,5 +1,5 @@
 # SWAPI
-A API adiciona, busca e remove planetas. Caso o planeta adicionado for do universo Star War a API conta quantas vezes o planeta apareceu em filmes e adiciona essa informação no campo count_films
+A API adiciona, busca e remove planetas. Caso o planeta adicionado for do universo Star Wars a API conta quantas vezes o planeta apareceu em filmes e adiciona essa informação no campo count_films
 
 Comando para inicialização do projeto:
 ```
