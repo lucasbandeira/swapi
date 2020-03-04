@@ -87,7 +87,7 @@ Requisição para buscar um planeta pelo id
   }
 ```
 
-### GET /planets/name/julianaland
+### GET /planets/name/Julianaland
 Requisição para buscar um planeta pelo nome
 ```
   {
