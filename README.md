@@ -49,7 +49,7 @@ Requisição para listar todos os planetas
     {
         "id": 13,
         "name": "Test",
-        "countFilms": null,
+        "countFilms": 0,
         "climate": [
             "tropical"
         ],
