@@ -7,7 +7,7 @@ $ mvn spring-boot:run
 ```
 *O projeto possui uma cobertura de mais de 80% [imagem](https://drive.google.com/open?id=1OpDRHWt13Gvibe-C6plPSEtQBKBw4-8l)
 
-Para facilitar o teste a API se encontra em uma istancia da AWS: (http://ec2-18-191-197-110.us-east-2.compute.amazonaws.com:8080/planets/) 
+Para facilitar o teste a API se encontra em uma instancia da AWS: (http://ec2-18-191-197-110.us-east-2.compute.amazonaws.com:8080/planets/) 
 
 ### POST /planets
 Requisição para criação de um Planeta
