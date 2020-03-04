@@ -6,8 +6,8 @@ Comando para inicialização do projeto:
 $ mvn spring-boot:run
 ```
 
-Requisição para criação de um Planeta
 ### POST /planets
+Requisição para criação de um Planeta
 ```
 {
   "name": "Dagobah", 
@@ -17,8 +17,8 @@ Requisição para criação de um Planeta
 ```
 Imagem exemplo: [POST /simian](https://drive.google.com/open?id=1QXvReg1oow0qbTePdIbLF8oHGPZoHpJy)
 
-Requisição para listar todos os planetas
 ### GET /planets
+Requisição para listar todos os planetas
 ```
 [
     {
@@ -68,8 +68,8 @@ Requisição para listar todos os planetas
 ]
 ```
 
-Requisição para buscar um planeta pelo id
 ### GET /planets/id/15
+Requisição para buscar um planeta pelo id
 ```
   {
       "id": 15,
@@ -84,8 +84,8 @@ Requisição para buscar um planeta pelo id
   }
 ```
 
-Requisição para buscar um planeta pelo nome
 ### GET /planets/name/julianaland
+Requisição para buscar um planeta pelo nome
 ```
   {
       "id": 11,
@@ -100,11 +100,11 @@ Requisição para buscar um planeta pelo nome
   }
 ```
 
-Requisição remover um planeta pelo id
 ### DELETE /planets/15
+Requisição para remover um planeta pelo id
 
-Requisição para listar todos os planetas da API externa (swapi.co/api/)
 ### GET /planets
+Requisição para listar todos os planetas da API externa (swapi.co/api/)
 ```
 [
         {
