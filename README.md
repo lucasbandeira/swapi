@@ -5,6 +5,7 @@ Comando para inicialização do projeto:
 ```
 $ mvn spring-boot:run
 ```
+*O projeto possui uma cobertura de mais de 80% [imagem](https://drive.google.com/open?id=1OpDRHWt13Gvibe-C6plPSEtQBKBw4-8l)
 
 ### POST /planets
 Requisição para criação de um Planeta
