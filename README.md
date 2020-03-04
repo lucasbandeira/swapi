@@ -106,7 +106,7 @@ Requisição para buscar um planeta pelo nome
 ### DELETE /planets/15
 Requisição para remover um planeta pelo id
 
-### GET /planets
+### GET /swapi/planets
 Requisição para listar todos os planetas da API externa (swapi.co/api/)
 ```
 [
