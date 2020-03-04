@@ -20,7 +20,7 @@ import com.ame.swapi.repository.PlanetRepository;
 import com.mashape.unirest.http.exceptions.UnirestException;
 
 /**
- * Rest Controlle for planet search
+ * Rest Controlle for planet search API
  * 
  * @author Lucas Bandeira
  * @since 03/02/2020
